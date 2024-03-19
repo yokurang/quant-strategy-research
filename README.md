@@ -8,7 +8,7 @@ The analysis is conducted using Python and pandas within a Jupyter notebook, foc
 
 ## Notebook Structure
 
-The notebook is organized into several sections, each addressing different facets of the strategy's performance and market impact. Here's what each section aims to cover:
+The notebook `main.ipynb` is organized into several sections, each addressing different facets of the strategy's performance and market impact. Here's what each section aims to cover:
 
 ### 1. Data Exploration
 
