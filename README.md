@@ -31,5 +31,6 @@ Finally, I examined the impact of the trading strategy on market prices, especia
 To work with the notebook, follow these steps:
 
 1. Create a new virtual environment using Python 3.9. `python3.9 -m venv .venv`
-2. Install the required libraries by running `pip install -r requirements.txt`.
-3. Ensure the data files (`fills_data.parq` and `market_data.parq`) are located in the `data` folder.
+2. Source the virtual environment by running `source .venv/bin/activate` (Linux/Mac)
+3. Install the required libraries by running `pip install -r requirements.txt`.
+4. Ensure the data files (`fills_data.parq` and `market_data.parq`) are located in the `data` folder.
